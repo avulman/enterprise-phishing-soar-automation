@@ -8,6 +8,12 @@ This system also constructs a solid foundation for future scalability of logic a
 
 ---
 
+## High-level Diagram
+
+<img width="1196" height="196" alt="PhishSOAR drawio" src="https://github.com/user-attachments/assets/be479873-53ad-4022-ab3b-a574b0b8ca0c" />
+
+---
+
 ## End-to-end lifecycle
 
 When a user reports a suspicious email in Outlook:
